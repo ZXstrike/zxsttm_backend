@@ -1,0 +1,2 @@
+GET  http://localhost:8000/auth/check HTTP/1.1
+Authorization: Bearer eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3Mjc4ODExNDgsInVzZXJfaWQiOjF9.vEfwZ4bSzqm67NltNTJl273k7XsX_SVB5smIAkjeEli3-LNjJVnYUhJCoJLLcP-4ygYg5dGSZKNfRa_ooi_g-Q

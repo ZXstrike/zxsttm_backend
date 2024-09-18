@@ -1,0 +1,9 @@
+
+POST http://localhost:8000/projects/post-new HTTP/1.1
+Content-Type: application/json
+
+{
+    "name": "Tamaki's Web",
+    "description": "This is a Web project"
+}
+
